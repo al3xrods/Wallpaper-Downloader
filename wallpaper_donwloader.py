@@ -6,10 +6,11 @@ import random
 import config
 
 # Constants
-CLIENT = config.API_KEY
-DOWNLOAD_DIR = r"C:\Users\al3xr\Downloads\Donwloaded Wallpapers"
-MOVE_TO_DIR = r"C:\Users\al3xr\OneDrive\Pictures\Wallpapers"
+CLIENT = config.API_KEY # Python file with your Unsplash's API Keys
+DOWNLOAD_DIR = YOUR DOWNLOADS DIRECTORY
+MOVE_TO_DIR = YOUR WALLPAPER DIRECTORY
 
+# Feel free to edit the themes.
 THEMES = ["Fractal", 
           "Universe", 
           "Cosmic", 
